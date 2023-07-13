@@ -1,2 +1,2 @@
-#!/bin/basg
+#!/bin/bash
 gcc -S -masm-intel $CFILE
