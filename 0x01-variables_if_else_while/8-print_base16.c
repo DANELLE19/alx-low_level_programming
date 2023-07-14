@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints the numbers from 0 to 9 followed by letters from 'a' to 'f'
- * Return: 0(success)
- */
+* main - Prints the numbers from 0 to 9 followed by letters from 'a' to 'f'
+* Return: 0(success)
+*/
 int main(void)
 {
 int i;
