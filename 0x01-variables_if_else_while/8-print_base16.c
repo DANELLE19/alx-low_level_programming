@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - Prints the numbers from 0 to 9 followed by letters from 'a' to 'f'
+* main - Prints the numbers from 0 to 9 followed by letters a to f
 * Return: 0(success)
 */
 int main(void)
