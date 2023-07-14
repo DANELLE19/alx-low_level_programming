@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Prints the numbers from 0 to 9 followed by alphabet letters 'a' to 'f'
+* main - Prints numbers between 0 to 9 and alphabet letters between 'a' to 'f'.
 * Return: Always 0 (success)
 */
 
