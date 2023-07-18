@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
  * main - Prints the first 52 fibonacci numbers
@@ -21,7 +20,7 @@ printf(", %ld", k);
 else
 {
 k += j;
-j = k = j;
+j = k - j;
 printf(", %ld", k);
 }
 ++i;
