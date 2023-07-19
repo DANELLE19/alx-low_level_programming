@@ -3,9 +3,9 @@
  * main - Test functions for positive or negative
  * Return: 0
  */
-
 int main(void)
 {
+
 int i;
 
 i = 0;
