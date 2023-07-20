@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
- * print_square - Prints a square pattern of '#' characters
- * @size: The number of squares/number of times 
+ * print_square - Prints n squares according n number of times
+ * @size: The number of squares/number of times
  * Return: empty
  */
 
@@ -22,7 +21,7 @@ for (x = 0; x < size; x++)
 {
 for (y = 0; y < size; y++)
 {
-_putchar(#);
+_putchar(35);
 }
 _putchar('\n');
 }
