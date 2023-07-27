@@ -8,7 +8,7 @@ int main(void)
     int n = 6;
 
     printf("Before concatenation: %s\n", str1);
-    _strncat(str1, str2, n);
+    _strncpy(str1, str2, n);
     printf("After concatenation: %s\n", str1);
 
     return 0;
