@@ -5,11 +5,10 @@
 #include <stdlib.h>
 #include "lists.h"
 /**
- * struct listsint_t - self referencial struct
- * for creating nodes of singly linked list
- * @n: integer data
- * @next: self referencial pointer to
- * the next node of a list
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
+ * Description: singly linked list node structure
  */
 typedef struct listint_s
 {
